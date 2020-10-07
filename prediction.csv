@@ -1,0 +1,15 @@
+age-over30,sex,region,income-over40,married,children,car,mortgage,label,predicted_label
+True,FEMALE,INNER_CITY,False,NO,NO,NO,NO,YES,YES
+True,FEMALE,RURAL,True,NO,NO,YES,YES,NO,YES
+False,MALE,INNER_CITY,False,NO,NO,NO,YES,NO,NO
+False,FEMALE,INNER_CITY,False,YES,NO,YES,NO,NO,NO
+True,FEMALE,TOWN,False,YES,NO,YES,YES,NO,NO
+True,FEMALE,INNER_CITY,True,YES,NO,NO,NO,NO,NO
+False,MALE,SUBURBAN,False,NO,YES,NO,NO,NO,NO
+True,MALE,TOWN,True,YES,YES,NO,NO,YES,YES
+True,MALE,INNER_CITY,False,YES,NO,YES,YES,YES,YES
+True,FEMALE,SUBURBAN,False,YES,NO,YES,YES,NO,NO
+Summary,Stats
+numberOfTrees,20
+percentageOfAttributes,80%
+accuracy,90.0%
